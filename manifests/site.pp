@@ -16,3 +16,4 @@ node /^web/ {
 node /^db/ {
   iclude role::db_server
 }
+ 
